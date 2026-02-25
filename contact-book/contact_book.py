@@ -3,9 +3,10 @@ print("Contact Book App")
 
 def store(contacts):
     with open("contacts.json","w") as file:
-       a=json.dump(contacts,file,indent=4)
-       if a:
+       store_data=json.dump(contacts,file,indent=4)
+       if store_data:
           print("Data saved.")
+       
            
 def search():
     with open("contacts.json","r") as file:
