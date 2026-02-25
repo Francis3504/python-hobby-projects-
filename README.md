@@ -21,23 +21,23 @@ Each project focuses on practicing different aspects of Python ,basic logic to o
 |[Multiplication Table Generator](mutliplicatin-table-generator)|An exercise to understand how loops work.Input a number and it will print a  part of the mutliplicating table for that number|
 
 ##Skills Acquired
-    1.Python basics:variables,loops,functions 
-    2.Object-Oriented Programming(OOP)
-    3.File handling and user input
-    4.Error handling
-    5.Problem solving with small projects
-    6.Building terminal apps
+    1. Python basics:variables,loops,functions 
+    2. Object-Oriented Programming(OOP)
+    3. File handling and user input
+    4. Error handling
+    5. Problem solving with small projects
+    6. Building terminal apps
 
 ##Future Improvements
-  1.Add GUI versions for some projects e.g expense tracker or student grade tracker.
-  2.Apply Software Engineering principles e.g Seperation of concerns,SOLID principles
-  3.Expand functionality of games and trackers
-  4.Save and load data in files or database
+  1. Add GUI versions for some projects e.g expense tracker or student grade tracker.
+  2. Apply Software Engineering principles e.g Seperation of concerns,SOLID principles
+  3. Expand functionality of games and trackers
+  4. Save and load data in files or database
 
 ##How to run
-  1.Install Python 3 ([Python.org](https://www.python.org/))
-  2.Open terminal in project folder
-  3.Run the project
+  1. Install Python 3 ([Python.org](https://www.python.org/))
+  2. Open terminal in project folder
+  3. Run the project
 
 '''bash
   python filename.py or py filename.
